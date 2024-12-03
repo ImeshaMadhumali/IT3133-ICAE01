@@ -1,10 +1,11 @@
+import '../assets/css/layout.css';
 export default function Product(){
     
     return(
         <div className="grid-item">
 
             <div class="card">
-                <img  />
+                <images />
                 <div class="card-body">
                     <h5 class="card-title">Price:</h5>
                     <div class="quantity-container">

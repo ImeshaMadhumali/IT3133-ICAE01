@@ -1,4 +1,4 @@
-
+import '../assets/css/layout.css';
 export default function Products(){
    
     return(
