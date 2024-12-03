@@ -1,5 +1,6 @@
-import './App.css';
+import './assets/css/layout.css';
 import Products from './components/Products.js'
+
 
 function App() {
   return (
